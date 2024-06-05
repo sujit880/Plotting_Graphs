@@ -3,7 +3,7 @@
 # Server connection details
 SERVER="sujit_2021cs35@10.12.10.15"
 REMOTE_DIR="/home/sujit_2021cs35/Github/FedLearn/result"
-LOCAL_DIR="experiments/d_mnit_c15_e5_b16_t_mix_nc_4_r_250_model_none_lr_01"
+LOCAL_DIR=f"/mnt/c/Users/S_G/Documents/experiments/datas/d_mnit_c15_e5_b16_t_mix_nc_4_r_250_model_none_lr_01"
 
 # Start SSH session to list files and save the list to a file
 ssh $SERVER "cd $REMOTE_DIR && ls *_nc_4_mix_*_B_16*_E_5*.json > files_to_download.txt"
