@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T23:41:48.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1Navh0NFGoksp8j_elFV" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T23:42:53.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HDXKWASF7xK1QcTpmhAw" version="24.5.5" type="github">
   <diagram name="Page-1" id="vZR_3l1T8xo6MbTMYSGH">
     <mxGraphModel dx="700" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -250,13 +250,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qXU9WI0w4rbYGttdrwVk-184" value="Aggregate Layer-Wise Cofficients of each client&#39;s workers set.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXU9WI0w4rbYGttdrwVk-184" value="&lt;div&gt;(6)&lt;/div&gt;Aggregate Layer-Wise Cofficients of each client&#39;s workers set.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="680" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qXU9WI0w4rbYGttdrwVk-187" value="Compute Prioritized-Class Based Aggregation Weight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXU9WI0w4rbYGttdrwVk-187" value="&lt;div&gt;(7)&lt;/div&gt;Compute Prioritized-Class Based Aggregation Weight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qXU9WI0w4rbYGttdrwVk-188" value="Update&lt;br&gt;Global Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXU9WI0w4rbYGttdrwVk-188" value="&lt;div&gt;(8)&lt;/div&gt;Update&lt;br&gt;Global Model Parameters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXU9WI0w4rbYGttdrwVk-361" value="&lt;b&gt;Stage 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
